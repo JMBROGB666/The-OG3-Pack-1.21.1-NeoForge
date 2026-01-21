@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "supplementaries:block/way_signs/template",
-	"textures": {
-		"particle": "supplementaries:block/way_signs/atmospheric/way_sign_yucca",
-		"sign": "supplementaries:block/way_signs/atmospheric/way_sign_yucca"
-	}
-}
