@@ -1,0 +1,22 @@
+{
+  "key": {
+    "A": {
+      "ingredient": {
+        "tag": "minecraft:wooden_slabs"
+      },
+      "block_type": "minecraft:wood_type",
+      "from": "minecraft:oak",
+      "to": "upgrade_aquatic:river",
+      "type": "moonlight:block_type_swap"
+    }
+  },
+  "pattern": [
+    "AAA"
+  ],
+  "result": {
+    "id": "suppsquared:upgrade_aquatic/item_shelf_river",
+    "count": 2
+  },
+  "category": "misc",
+  "type": "minecraft:crafting_shaped"
+}
