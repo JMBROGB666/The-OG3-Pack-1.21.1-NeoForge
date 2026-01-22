@@ -1,0 +1,23 @@
+#InControl
+[incontrol]
+	Enable = true
+
+#Snow! Real Magic!
+[snowrealmagic]
+	Enable = true
+
+#Macaw's Roofs
+[mcwroofs]
+	#Enable automatic snow-covered blocks and models.
+	Enable = true
+
+#Macaw's Bridges
+[mcwbridges]
+	#Enable automatic snow-covered blocks and models.
+	Enable = true
+
+#Diagonal Blocks
+[diagonalblocks]
+	Enable = true
+	fence = true
+	wall = true
