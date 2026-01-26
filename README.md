@@ -55,7 +55,7 @@ A Minecraft 1.21.1 Modpack for me and Friends.
 	<li><a href="https://modrinth.com/mod/z1Dv56jq">Boss Checklist</a> [3.3.0] by Yori3o</li>
 	<li><a href="https://modrinth.com/mod/twipgzWx">Cable Facades</a> [1.6.4] by Leclowndu93150, Thepigcat76, SuperMartijn642, Heather White, IMS212</li>
 	<li><a href="https://modrinth.com/mod/40FYwb4z">Caelus API</a> [7.0.1+1.21.1] by Illusive Soulworks</li>
-	<li><a href="https://modrinth.com/mod/joEfVgkn">Carry On</a> [2.2.4] by Tschipp, PurpliciousCow</li>
+	<li><a href="https://modrinth.com/mod/joEfVgkn">Carry On</a> [2.2.2] by Tschipp, PurpliciousCow</li>
 	<li><a href="https://modrinth.com/mod/53TJSd8P">Cataclysm &amp; BetterCombat - Compatibility</a> [1.0.2]</li>
 	<li><a href="https://modrinth.com/mod/3FEg0A8D">Cataclysm Spellbook</a> [1.1.10-1.21] by Ace The Eldritch King</li>
 	<li><a href="https://www.curseforge.com/projects/1348970">Cataclysm x YUNG's Better Nether Fortresses Compat</a> [1.21.1] by GamesOfLife</li>
