@@ -27,10 +27,10 @@
     "tintMix": 0.6,
     "shaderpackTint": true,
     "syncRegistries": true,
-    "crossBiomeBorder": false,
+    "crossBiomeBorder": true,
     "useHeightmapTemp": true,
     "doSpawnHeightLimit": true,
-    "spawnHeightLimit": 0
+    "spawnHeightLimit": 364
   },
   "particles": [
     {

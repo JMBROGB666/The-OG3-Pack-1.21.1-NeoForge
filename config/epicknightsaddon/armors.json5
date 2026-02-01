@@ -1338,5 +1338,17 @@
 		"toughness": 0.20000000298023224,
 		"helmetDurability": 170,
 		"helmetDefense": 2
+	},
+	"darkBellowsMaximilianHelmet": {
+		"enabled": true,
+		"toughness": 1.7999999523162842,
+		"helmetDurability": 385,
+		"helmetDefense": 4
+	},
+	"gildedGreathelm": {
+		"enabled": true,
+		"toughness": 0.6000000238418579,
+		"helmetDurability": 220,
+		"helmetDefense": 3
 	}
 }
