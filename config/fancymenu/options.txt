@@ -27,7 +27,7 @@ S:custom_window_icon_16 = '/config/fancymenu/assets/og3-pack-1.21.1_16x16.png';
 B:show_custom_window_icon = 'true';
 S:custom_window_icon_macos = '/config/fancymenu/assets/og3-pack-1.21.1_32x32.icns';
 S:custom_window_icon_32 = '/config/fancymenu/assets/og3-pack-1.21.1_32x32.png';
-S:custom_window_title = 'The OG3 Pack NeoForge 1.21.1 v1.0';
+S:custom_window_title = 'The OG3 Pack NeoForge 1.21.1 v1.1';
 
 
 ##[multiplayer_screen]
